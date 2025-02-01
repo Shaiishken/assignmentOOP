@@ -1,4 +1,4 @@
-package src.model;
+package model;
 public class CarProducingMachine {
     private int id;
     private String machineName;

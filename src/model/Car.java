@@ -1,4 +1,4 @@
-package src.model;
+package model;
 import java.math.BigDecimal;
 public class Car {
     private String name;
