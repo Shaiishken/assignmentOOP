@@ -1,6 +1,6 @@
-package Controllers;
-import Model.Car;
-import Service.CarService;
+package controller;
+import model.Car;
+import service.CarService;
 import java.util.List;
 public class CarController {
     private final CarService carService = new CarService();
