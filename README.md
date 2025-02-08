@@ -15,7 +15,7 @@ Follow these steps to install and set up the Car Factory application:
 **Java Development Kit (JDK):** Ensure that Java 8 or higher is installed on your machine.
 **MySQL Database:** Ensure that MySQL is installed and running. Create a database car_factory before using the application. The schema is provided below.
 
-**Clone or Download the Project: **Download the project files from the provided ZIP or clone the repository. 
+**Clone or Download the Project:** Download the project files from the provided ZIP or clone the repository. 
 
 **Set up the Database:** Open your MySQL client or terminal and run the following commands to set up the necessary tables.
 
@@ -51,6 +51,7 @@ CREATE TABLE Cars (
 **Configure Database Connection:** Open the `CarRepository.java`, `EmployeeRepository.java`, and `CarProducingMachineRepository.java` files in the `src/repository folder`. Modify the database connection URL and credentials if necessary to match your MySQL setup.
 
 **Build the Project:**
+
 Using Maven: If you are using Maven, you can simply run:
 ```bash
 mvn clean install
