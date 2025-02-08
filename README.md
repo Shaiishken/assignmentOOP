@@ -12,7 +12,7 @@ The **Car Factory Application** is a simple Java console-based management system
 Follow these steps to install and set up the Car Factory application:
 
 ### Prerequisites
-**Java Development Kit (JDK): **Ensure that Java 8 or higher is installed on your machine.
+**Java Development Kit (JDK):** Ensure that Java 8 or higher is installed on your machine.
 **MySQL Database:** Ensure that MySQL is installed and running. Create a database car_factory before using the application. The schema is provided below.
 
 **Clone or Download the Project: **Download the project files from the provided ZIP or clone the repository. 
